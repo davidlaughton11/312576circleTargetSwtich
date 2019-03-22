@@ -1,4 +1,8 @@
-﻿using System;
+/*David Laughton
+*March 22, 2019
+*Swap with a ticker(Josh) from different Coloured circles
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
